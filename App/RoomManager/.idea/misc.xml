@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12777777777777777" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12777777777777777" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_alarm.xml" value="0.4" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_basic.xml" value="0.12708333333333333" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_cam.xml" value="0.12" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_col_ch.xml" value="0.4" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_ins.xml" value="0.25" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_pre_def_col.xml" value="0.25" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_ran_col.xml" value="0.1234375" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_scan.xml" value="0.12708333333333333" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_time_sync.xml" value="0.1" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_bt_wifi_settings.xml" value="0.136" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_device_restart.xml" value="0.25" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_my_bluetooth_scan.xml" value="0.152" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_pair_device_home_activity.xml" value="0.11458333333333333" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_rgb_led_animation.xml" value="0.25" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_rgb_led_color_using_camera.xml" value="0.152" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_schedule_on_off.xml" value="0.2607879924953096" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/layout/activity_wifi_settings.xml" value="0.25" />
+        <entry key="..\:/Work/Code/AndroidStudio/RoomManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
